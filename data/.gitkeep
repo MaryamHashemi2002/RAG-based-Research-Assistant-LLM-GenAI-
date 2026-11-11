@@ -1,0 +1,2 @@
+Remove-Item -Recurse -Force data\pdfs, data\raw_text, data\clean
+Remove-Item data\*.json, data\*.jsonl
