@@ -1,2 +1,7 @@
-Sentence-aware chunking chosen over fixed (fewer mid-sentence cuts).
-Known noise: author headers, footnotes, a few broken hyphens.
+- Sentence-aware chunking chosen over fixed (fewer mid-sentence cuts).
+- Known noise: author headers, footnotes, a few broken hyphens.
+- 25 of 1090 chunks (2.3%) are result tables; the model truncates them at 512 tokens. Acceptable for now; revisit if evaluation (Day 32) shows table questions failing.
+- Dense search (bge-small) is on-topic but ranking is imperfect: best L1 answer was rank 5.
+- Boilerplate chunks (author lists, copyright text) rank high. Reranker (Day 13) should fix.
+- One survey paper dominates results. Consider a per-paper limit later.
+- Scores are compressed (0.78-0.84), so no score cutoff for "I don't know".
