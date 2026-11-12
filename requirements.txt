@@ -2,3 +2,5 @@ arxiv
 pymupdf
 tiktoken
 pytest
+sentence-transformers
+numpy
