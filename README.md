@@ -1,7 +1,6 @@
-# RAG-based-Research-Assistant-LLM-GenAI-
 # RAG-based Research Assistant
 
-Ask questions over research papers and get answers with citations, using retrieval-augmented generation (RAG) and LLMs.
+Ask questions over research papers and get answers with citations, using retrieval-augmented generation (RAG).
 
 ## Planned features
 - arXiv paper ingestion and chunking

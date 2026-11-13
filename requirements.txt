@@ -4,3 +4,4 @@ tiktoken
 pytest
 sentence-transformers
 numpy
+qdrant-client
