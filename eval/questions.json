@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "paper_id": "1607.01327v8",
+    "chunk_id": "1607.01327v8_8",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 2,
+    "paper_id": "1410.5473v2",
+    "chunk_id": "1410.5473v2_4",
+    "question": "At the end of the confidence-based algorithm, how does it decide which features to keep?",
+    "keyphrase": "those features with high confidence"
+  },
+  {
+    "id": 3,
+    "paper_id": "1611.01875v1",
+    "chunk_id": "1611.01875v1_11",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 4,
+    "paper_id": "2511.01592v2",
+    "chunk_id": "2511.01592v2_21",
+    "question": "What physical structure was used in the impact experiments that produced the datasets?",
+    "keyphrase": "a square composite panel with nominal dimensions"
+  },
+  {
+    "id": 5,
+    "paper_id": "2211.03035v1",
+    "chunk_id": "2211.03035v1_14",
+    "question": "In the synthetic-data experiments, what limitation does lasso show when several features carry overlapping information?",
+    "keyphrase": "fails to differentiate the relevant features"
+  },
+  {
+    "id": 6,
+    "paper_id": "2209.02746v1",
+    "chunk_id": "2209.02746v1_3",
+    "question": "How does the simplest filter technique decide which features to keep?",
+    "keyphrase": "calculating the variance of each feature"
+  },
+  {
+    "id": 7,
+    "paper_id": "2401.07627v1",
+    "chunk_id": "2401.07627v1_36",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 8,
+    "paper_id": "1704.02665v3",
+    "chunk_id": "1704.02665v3_14",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 9,
+    "paper_id": "1506.05173v2",
+    "chunk_id": "1506.05173v2_39",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 10,
+    "paper_id": "2406.14401v1",
+    "chunk_id": "2406.14401v1_5",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 11,
+    "paper_id": "2106.06437v1",
+    "chunk_id": "2106.06437v1_14",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 12,
+    "paper_id": "2306.04824v2",
+    "chunk_id": "2306.04824v2_3",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 13,
+    "paper_id": "2110.10713v1",
+    "chunk_id": "2110.10713v1_21",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 14,
+    "paper_id": "2001.08371v1",
+    "chunk_id": "2001.08371v1_8",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 15,
+    "paper_id": "1708.08750v1",
+    "chunk_id": "1708.08750v1_23",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 16,
+    "paper_id": "2412.10128v3",
+    "chunk_id": "2412.10128v3_48",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 17,
+    "paper_id": "2510.05535v3",
+    "chunk_id": "2510.05535v3_27",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 18,
+    "paper_id": "2302.13221v4",
+    "chunk_id": "2302.13221v4_15",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 19,
+    "paper_id": "1712.03223v1",
+    "chunk_id": "1712.03223v1_12",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 20,
+    "paper_id": "2107.00219v1",
+    "chunk_id": "2107.00219v1_8",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 21,
+    "paper_id": "2010.09430v2",
+    "chunk_id": "2010.09430v2_6",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 22,
+    "paper_id": "2403.05138v1",
+    "chunk_id": "2403.05138v1_3",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 23,
+    "paper_id": "2604.18227v4",
+    "chunk_id": "2604.18227v4_5",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 24,
+    "paper_id": "2306.10336v2",
+    "chunk_id": "2306.10336v2_22",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 25,
+    "paper_id": "2007.02376v1",
+    "chunk_id": "2007.02376v1_6",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 26,
+    "paper_id": "1901.04055v1",
+    "chunk_id": "1901.04055v1_10",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 27,
+    "paper_id": "2608.20447v1",
+    "chunk_id": "2608.20447v1_5",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 28,
+    "paper_id": "2407.17795v2",
+    "chunk_id": "2407.17795v2_10",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 29,
+    "paper_id": "1405.0647v1",
+    "chunk_id": "1405.0647v1_10",
+    "question": "",
+    "keyphrase": ""
+  },
+  {
+    "id": 30,
+    "paper_id": "1404.2948v1",
+    "chunk_id": "1404.2948v1_18",
+    "question": "",
+    "keyphrase": ""
+  }
+]
