@@ -5,3 +5,5 @@
 - Boilerplate chunks (author lists, copyright text) rank high. Reranker (Day 13) should fix.
 - One survey paper dominates results. Consider a per-paper limit later.
 - Scores are compressed (0.78-0.84), so no score cutoff for "I don't know".
+- Qdrant (local mode) holds 1090 chunks with metadata; results identical to the numpy search.
+- Filters by year and paper_id work. Local mode allows one process at a time; use the Qdrant server in Docker on Day 29-30.
